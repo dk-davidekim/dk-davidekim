@@ -1,4 +1,4 @@
-# Hi there, I'm David! 🫡
+# Hi there, I'm David! 👋
 
 ## 🌱 About Me
 - Currently learning Data Engineering
