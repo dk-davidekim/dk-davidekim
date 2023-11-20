@@ -15,7 +15,7 @@
 - **Web Development**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Scrapy](https://img.shields.io/badge/-Scrapy-0C4128?style=flat) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
 ## 📈 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[dk-davidekim]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dk-davidekim&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
 - 📧 Email: [dk.davidekim@gmail.com](mailto:dk.davidekim@gmail.com)
