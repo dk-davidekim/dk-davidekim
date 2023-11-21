@@ -1,11 +1,12 @@
-# Hi there, I'm David! 👋
+# Good morning, and in case I don't see ya, good afternoon, good evening, and good night. 👋
+# I'm David! 🫡
 
 ## 🌱 About Me
 - Currently learning Data Engineering
 - 🎓 Boston University Data Science, Class of 2024
 - 📧 Reach me at: [dk.davidekim@gmail.com](mailto:dk.davidekim@gmail.com)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Korean Men's Sabre Fencer
+- 🤺 Fun fact: Korean Men's Sabre Fencer
 
 ## 🛠️ Skills
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
