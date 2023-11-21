@@ -1,5 +1,5 @@
 #### Good morning, and in case I don't see ya, good afternoon, good evening, and good night. 👋
-## Welcome to David Kim's Github! ⭐️
+## ⭐️ Welcome to David Euijoon Kim's Github! ⭐️
 
 ## 🌱 About Me
 - Currently learning Data Engineering
