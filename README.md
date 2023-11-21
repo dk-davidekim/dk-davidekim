@@ -1,5 +1,5 @@
-# Good morning, and in case I don't see ya, good afternoon, good evening, and good night. 👋
-# I'm David! 🫡
+#### Good morning, and in case I don't see ya, good afternoon, good evening, and good night. 👋
+## Welcome to David Kim's Github! ⭐️
 
 ## 🌱 About Me
 - Currently learning Data Engineering
