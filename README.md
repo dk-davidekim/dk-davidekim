@@ -4,7 +4,7 @@
 ## 🌱 About Me
 - Currently learning Data Engineering
 - 🎓 Boston University Data Science, Class of 2024
-- 🌐 Check out my personal website: [OnestNotes](https://onestnotes.simple.ink/)
+- 🌐 Check out my personal website: [onestnotes](https://onestnotes.simple.ink/)
 - 📧 Reach me at: [dk.davidekim@gmail.com](mailto:dk.davidekim@gmail.com)
 - 😄 Pronouns: He/Him/His
 - 🤺 Fun fact: Korean Men's Sabre Fencer
